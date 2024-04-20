@@ -127,7 +127,7 @@ mainset:
   - name: Amstenrade
     probability: 1
   - name: Amsterdam
-    probability: 1
+    probability: 20
   - name: Amsterdam-Duivendrecht
     probability: 1
   - name: Andel
